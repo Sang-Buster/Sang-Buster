@@ -1,5 +1,5 @@
-- 👋 Sing-Song
-- 🌱 Balling Since Day One ...
+- 👋 Sing Song
+- 🌱 Biggydy Buggydy Boom...
 
 <!---
 Sang-Buster/Sang-Buster is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
