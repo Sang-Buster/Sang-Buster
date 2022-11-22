@@ -8,7 +8,7 @@
 
 ---
 
-<h3 align="center"><img src="https://raw.githubusercontent.com/Sang-Buster/Picgo-Github/main/img/coding.gif" width="25px">Tech Stack<img src="https://raw.githubusercontent.com/Sang-Buster/Picgo-Github/main/img/coding.gif" width="25px"></h3>
+<h3 align="center"><img src="https://raw.githubusercontent.com/Sang-Buster/Picgo-Github/main/img/coding.gif" width="22px">&nbsp;Tech Stack&nbsp;<img src="https://raw.githubusercontent.com/Sang-Buster/Picgo-Github/main/img/coding.gif" width="22px"></h3>
 
 <h4>Main Languages</h4>
 <p align="center">
@@ -153,7 +153,7 @@
 
 ---
 
-  <h3 align="center"><img src="https://raw.githubusercontent.com/Sang-Buster/Picgo-Github/main/img/stats.gif" width="25px">Github Stats<img src="https://raw.githubusercontent.com/Sang-Buster/Picgo-Github/main/img/stats.gif" width="25px"></h3> 
+  <h3 align="center"><img src="https://raw.githubusercontent.com/Sang-Buster/Picgo-Github/main/img/stats.gif" width="25px">&nbsp;Github Stats&nbsp;<img src="https://raw.githubusercontent.com/Sang-Buster/Picgo-Github/main/img/stats.gif" width="25px"></h3> 
   
   <div align="center">
   
