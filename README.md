@@ -16,9 +16,9 @@
     <img src="https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white"
       alt="R"/> 
   </a>
-    <a href="https://www.r-project.org/" target="_blank"> 
+    <a href="https://www.mathworks.com/products/matlab.html" target="_blank"> 
     <img src="https://github.com/Sang-Buster/Picgo-Github/raw/main/img/Icons/Matlab.svg"
-      alt="R"/> 
+      alt="Matlab"/> 
   </a>
   <a href="https://www.python.org/" target="_blank"> 
     <img src="https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue"
