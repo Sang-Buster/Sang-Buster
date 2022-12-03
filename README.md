@@ -150,10 +150,16 @@
   <a href="https://www.microsoft.com/en-us/windows/" target="_blank"> 
     <img src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white" alt="Windows"/>
   </a>
+  <a href="https://getfedora.org/" target="_blank"> 
+    <img src="https://img.shields.io/badge/Fedora-294172?style=for-the-badge&logo=fedora&logoColor=white" alt="Fedora"/>
+  </a>  
   <a href="https://ubuntu.com/" target="_blank"> 
     <img src="https://img.shields.io/badge/ubuntu-E95420.svg?style=for-the-badge&logo=ubuntu&logoColor=white" alt="Ubuntu"/>
   </a>
-</p>
+<!--   <a href="https://archlinux.org/" target="_blank"> 
+    <img src="https://img.shields.io/badge/Arch_Linux-1793D1?style=for-the-badge&logo=arch-linux&logoColor=white" alt="Arch"/>
+  </a>
+</p> -->
 
 ---
 
@@ -169,8 +175,8 @@
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Sang-Buster&theme=react&count_private=true&include_all_commits=true" alt="Github-Streak-Stats" width="380px"/>
   </a>
   
-<!--   <a href="https://github.com/Sang-Buster">
+  <a href="https://github.com/Sang-Buster">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sang-Buster&layout=compact&theme=react&hide=freemarker" alt="https://github.com/Sang-Buster" width="450px"/>
-  </a> -->
+  </a>
   
   </div>
