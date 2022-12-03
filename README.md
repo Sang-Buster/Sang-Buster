@@ -163,10 +163,13 @@
 
 ---
 
-  <h3 align="center"><img src="https://raw.githubusercontent.com/Sang-Buster/Picgo-Github/main/img/stats.gif" width="25px">&nbsp;Github Stats&nbsp;<img src="https://raw.githubusercontent.com/Sang-Buster/Picgo-Github/main/img/stats.gif" width="25px"></h3> 
+<h3 align="center">
+  <img src="https://raw.githubusercontent.com/Sang-Buster/Picgo-Github/main/img/stats.gif" width="25px">&nbsp;
+  Github Stats    
+  <img src="https://raw.githubusercontent.com/Sang-Buster/Picgo-Github/main/img/stats.gif" width="25px">&nbsp; 
+</h3> 
   
-  <div align="center">
-  
+<div align="center">
   <a href="https://github.com/Sang-Buster">
   <img src="https://github-readme-stats.vercel.app/api?username=Sang-Buster&theme=react&count_private=true&hide=stars&show_icons=true&line_height=30" alt="Github-README-Stats" width="380px"/>
   </a>
@@ -174,35 +177,7 @@
   <a href="https://github.com/Sang-Buster">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Sang-Buster&theme=react&count_private=true&include_all_commits=true" alt="Github-Streak-Stats" width="380px"/>
   </a>
-  
-  <a href="https://github.com/Sang-Buster">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sang-Buster&theme=react&hide=freemarker" alt="https://github.com/Sang-Buster" width="350px"/>
-  </a>
-  
-  </div>
-
-<div align="center">
-<table>
-<thead>
-  <tr>
-    <td>
-      <a href="https://github.com/Sang-Buster">
-          <img src="https://github-readme-stats.vercel.app/api?username=Sang-Buster&theme=react&count_private=true&hide=stars&show_icons=true&line_height=30" alt="Github-README-Stats" width="380px"/>
-      </a>
-    </td>
-    <td rowspan="2">
-      <a href="https://github.com/Sang-Buster">
-          <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sang-Buster&theme=react&hide=freemarker" alt="https://github.com/Sang-Buster" width="350px"/>
-      </a>
-    </td>
-  </tr>
-  <tr>
-    <td>
-      <a href="https://github.com/Sang-Buster">
-          <img src="https://github-readme-streak-stats.herokuapp.com/?user=Sang-Buster&theme=react&count_private=true&include_all_commits=true" alt="Github-Streak-Stats" width="380px"/>
-      </a>
-    </td>
-  </tr>
-</thead>
-</table>
+<!--   <a href="https://github.com/Sang-Buster">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sang-Buster&layout=compact&theme=react&hide=freemarker" alt="https://github.com/Sang-Buster" width="350px"/>
+  </a> -->
 </div>
