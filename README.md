@@ -1,14 +1,34 @@
 <p align="center">
-<img style="width:8rem; height:auto" src="https://raw.githubusercontent.com/Sang-Buster/Picgo-Github/main/img/Gallery/EveCat.gif"/>
+  <a href="https://github.com/Sang-Buster">
+    <img style="width:8rem; height:auto" src="https://raw.githubusercontent.com/Sang-Buster/Picgo-Github/main/img/Gallery/EveCat.gif"/>
+  </a>
 </p>
 
-<h3 align="center">Hi, I'm Sang Xing<img width="25px" src="https://raw.githubusercontent.com/Sang-Buster/Picgo-Github/main/img/Hi.gif"></h3>
+<h3 align="center">Hi, I'm Sang Xing
+  <a href="https://github.com/Sang-Buster">
+    <img width="25px" src="https://raw.githubusercontent.com/Sang-Buster/Picgo-Github/main/img/Hi.gif">
+  </a>
+</h3>
 
-<h6 font-size="20" align="center">A Little Data Scientist. A Pure Math Enthusiast.</h6>
+<h6 font-size="20" align="center">
+  A Little Data Scientist. A Pure Math Enthusiast.
+  <br>
+  <a href="https://github.com/Sang-Buster">
+    <img src="https://readme-typing-svg.herokuapp.com?font=Consolas&weight=50&size=11&pause=1000&color=7FD9FB&center=true&width=435&height=30&lines=Always+grinding..." alt="Typing SVG" />
+  </a>
+</h6>
 
 ---
 
-<h3 align="center"><img src="https://raw.githubusercontent.com/Sang-Buster/Picgo-Github/main/img/coding.gif" width="22px">&nbsp;Tech Stack&nbsp;<img src="https://raw.githubusercontent.com/Sang-Buster/Picgo-Github/main/img/coding.gif" width="22px"></h3>
+<h3 align="center">
+  <a href="https://github.com/Sang-Buster">
+    <img src="https://raw.githubusercontent.com/Sang-Buster/Picgo-Github/main/img/coding.gif" width="22px">
+  </a>
+  &nbsp;Tech Stack&nbsp;
+  <a href="https://github.com/Sang-Buster">
+    <img src="https://raw.githubusercontent.com/Sang-Buster/Picgo-Github/main/img/coding.gif" width="22px">
+  </a>
+</h3>
 
 <h4>Main Languages</h4>
 <p align="center">
@@ -164,9 +184,13 @@
 ---
 
 <h3 align="center">
-  <img src="https://raw.githubusercontent.com/Sang-Buster/Picgo-Github/main/img/stats.gif" width="25px">&nbsp;
-  Github Stats    
-  <img src="https://raw.githubusercontent.com/Sang-Buster/Picgo-Github/main/img/stats.gif" width="25px">&nbsp; 
+  <a href="https://github.com/Sang-Buster">
+    <img src="https://raw.githubusercontent.com/Sang-Buster/Picgo-Github/main/img/stats.gif" width="25px">
+  </a>
+  &nbsp;Github Stats&nbsp; 
+  <a href="https://github.com/Sang-Buster">
+    <img src="https://raw.githubusercontent.com/Sang-Buster/Picgo-Github/main/img/stats.gif" width="25px">
+  </a>
 </h3> 
   
 <div align="center">
