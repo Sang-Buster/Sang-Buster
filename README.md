@@ -147,7 +147,7 @@
       alt="Git"/>
   </a>
   <a href="https://about.gitlab.com/" target="_blank">
-    <img src="https://img.shields.io/badge/gitlab-181717.svg?style=for-the-badge&logo=gitlab&logoColor=white"
+    <img src="https://img.shields.io/badge/gitlab-FC6D26.svg?style=for-the-badge&logo=gitlab&logoColor=white"
       alt="Gitlab"/>
   </a>
     <a href="https://www.docker.com/" target="_blank">
