@@ -24,7 +24,7 @@
   <a href="https://github.com/Sang-Buster">
     <img src="https://raw.githubusercontent.com/Sang-Buster/Picgo-Github/main/img/coding.gif" width="22px">
   </a>
-  &nbsp;Tech Stack&nbsp;
+  Tech Stack
   <a href="https://github.com/Sang-Buster">
     <img src="https://raw.githubusercontent.com/Sang-Buster/Picgo-Github/main/img/coding.gif" width="22px">
   </a>
@@ -187,7 +187,7 @@
   <a href="https://github.com/Sang-Buster">
     <img src="https://raw.githubusercontent.com/Sang-Buster/Picgo-Github/main/img/stats.gif" width="25px">
   </a>
-  &nbsp;Github Stats&nbsp; 
+  Github Stats 
   <a href="https://github.com/Sang-Buster">
     <img src="https://raw.githubusercontent.com/Sang-Buster/Picgo-Github/main/img/stats.gif" width="25px">
   </a>
