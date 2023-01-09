@@ -156,7 +156,7 @@
   </a>
 </p>
 
-<h4>Preferred IDEs  & Tools</h4>
+<h4>Preferred IDE & OS  & Tool</h4>
 <p align="center"> 
   <a href="https://code.visualstudio.com/" target="_blank">
     <img src="https://img.shields.io/badge/vscode-007ACC.svg?style=for-the-badge&logo=visualstudiocode&logoColor=white" alt="VSCode"/> 
