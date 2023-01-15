@@ -174,6 +174,9 @@
   <a href="https://www.microsoft.com/en-us/windows/" target="_blank"> 
     <img src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white" alt="Windows"/>
   </a>
+  <a href="https://www.microsoft.com/en-us/windows/" target="_blank"> 
+    <img src="https://img.shields.io/badge/WSL-0a97f5?style=for-the-badge&logo=linux&logoColor=white" alt="WSL"/>
+  </a>  
   <a href="https://getfedora.org/" target="_blank"> 
     <img src="https://img.shields.io/badge/Fedora-294172?style=for-the-badge&logo=fedora&logoColor=white" alt="Fedora"/>
   </a>  
