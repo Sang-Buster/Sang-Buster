@@ -85,6 +85,10 @@
     <img src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white"
       alt="Bootstrap"/> 
   </a>
+  <a href="https://revealjs.com/" target="_blank"> 
+    <img src="https://img.shields.io/badge/Reveal.JS-c8408c?style=for-the-badge&logo=RevealdotJS&logoColor=F2E142"
+      alt="Reveal.JS"/> 
+  </a>
 </p>
 
 
