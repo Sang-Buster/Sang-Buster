@@ -202,7 +202,7 @@
   
 <div align="center">
   <a href="https://github.com/Sang-Buster">
-  <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=Sang-Buster&theme=react&count_private=true&hide=stars&show_icons=true&line_height=30" alt="Github-README-Stats" width="380px"/>
+  <img src="https://github-readme-stats-nine-olive.vercel.app/api?username=Sang-Buster&theme=react&count_private=true&hide=stars&show_icons=true&line_height=30" alt="Github-README-Stats" width="380px"/>
   </a>
   &nbsp;&nbsp;&nbsp;
   <a href="https://github.com/Sang-Buster">
