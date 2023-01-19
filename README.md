@@ -206,7 +206,7 @@
   </a>
   &nbsp;&nbsp;&nbsp;
   <a href="https://github.com/Sang-Buster">
-  <img src="https://github-readme-streak-stats-liard.vercel.app/?user=Sang-Buster&theme=react&count_private=true&include_all_commits=true" alt="Github-Streak-Stats" width="380px"/>
+  <img src="https://streak-stats.demolab.com/?user=Sang-Buster&theme=react&count_private=true&include_all_commits=true" alt="Github-Streak-Stats" width="380px"/>
   </a>
 <!--   <a href="https://github.com/Sang-Buster">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sang-Buster&layout=compact&theme=react&hide=freemarker" alt="https://github.com/Sang-Buster" width=350 height=150/>
