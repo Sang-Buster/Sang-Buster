@@ -1,8 +1,8 @@
-<p align="center">
+<!-- <p align="center">
   <a href="https://github.com/Sang-Buster">
     <img style="width:8rem; height:auto" src="https://raw.githubusercontent.com/Sang-Buster/Picgo-Github/main/img/Gallery/EveCat.gif"/>
   </a>
-</p>
+</p> -->
 
 <h3 align="center">Hi, I'm Sang Xing
   <a href="https://github.com/Sang-Buster">
