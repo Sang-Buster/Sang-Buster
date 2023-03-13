@@ -307,7 +307,7 @@
   &nbsp;&nbsp;&nbsp;
   <a href="https://github.com/Sang-Buster">
     <img
-      src="https://streak-stats.demolab.com/?user=Sang-Buster&theme=react&count_private=true&include_all_commits=true"
+      src="https://github-readme-streaks-stats-git-main-sang-buster.vercel.app/?user=Sang-Buster&theme=react&count_private=true&include_all_commits=true"
       alt="Github-Streak-Stats"
       width="380px"
     />
