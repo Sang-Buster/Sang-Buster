@@ -299,6 +299,7 @@
 <div align="center">
   <a href="https://github.com/Sang-Buster">
     <img
+      decoding="async" loading="lazy" 
       src="https://github-readme-stats-sang-buster.vercel.app/api?username=Sang-Buster&theme=react&count_private=true&include_all_commits=true&hide=stars&show_icons=true&line_height=30"
       alt="Github-README-Stats"
       width="380px"
@@ -307,6 +308,7 @@
   &nbsp;&nbsp;&nbsp;
   <a href="https://github.com/Sang-Buster">
     <img
+      decoding="async" loading="lazy" 
       src="https://github-readme-streaks-stats-git-main-sang-buster.vercel.app/?user=Sang-Buster&theme=react&count_private=true&include_all_commits=true"
       alt="Github-Streak-Stats"
       width="380px"
