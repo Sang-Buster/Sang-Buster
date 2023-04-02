@@ -300,26 +300,74 @@
   <a href="https://github.com/Sang-Buster">
     <img
       decoding="async" loading="lazy" 
-      src="https://github-readme-stats-sang-buster.vercel.app/api?username=Sang-Buster&theme=react&count_private=true&include_all_commits=true&hide=stars&show_icons=true&line_height=30"
+      src="https://github-readme-stats-sang-buster.vercel.app/api?username=Sang-Buster&theme=react&count_private=true&include_all_commits=true&cache_seconds=86400&hide=stars&show_icons=true&line_height=30"
       alt="Github-README-Stats"
       width="380px"
     />
   </a>
-  &nbsp;&nbsp;&nbsp;
+  
   <a href="https://github.com/Sang-Buster">
     <img
       decoding="async" loading="lazy" 
-      src="https://github-readme-streaks-stats-git-main-sang-buster.vercel.app/?user=Sang-Buster&theme=react&count_private=true&include_all_commits=true"
+      src="https://github-readme-streaks-stats-git-main-sang-buster.vercel.app/?user=Sang-Buster&cache_seconds=86400&theme=react&count_private=true&include_all_commits=true"
       alt="Github-Streak-Stats"
       width="380px"
     />
   </a>
-<!--   <a href="https://github.com/Sang-Buster">
+</div>
+
+---
+
+<h3 align="center">
+  <a href="https://github.com/Sang-Buster">
+    <img
+      src="https://raw.githubusercontent.com/Sang-Buster/Picgo-Github/main/img/akita_firefox.gif"
+      width="30px"
+    />
+  </a>
+  Portfolio Templates
+  <a href="https://github.com/Sang-Buster">
+    <img
+      src="https://raw.githubusercontent.com/Sang-Buster/Picgo-Github/main/img/akita_firefox.gif"
+      width="30px"
+    />
+  </a>
+</h3>
+
+<div align="center">
+  <a href="https://github.com/Sang-Buster">
     <img 
-      src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sang-Buster&layout=compact&theme=react&hide=freemarker" 
-      alt="https://github.com/Sang-Buster" 
+      src="https://github-readme-stats-sang-buster.vercel.app/api/pin?username=Sang-Buster&repo=Portfolio-Dimension&theme=react&cache_seconds=86400" 
+      alt="Github-Repo-Card" 
       width=350 
       height=150
     />
-  </a> -->
-</div>
+  </a>
+  <a href="https://github.com/Sang-Buster">
+    <img 
+      src="https://github-readme-stats-sang-buster.vercel.app/api/pin?username=Sang-Buster&repo=Portfolio-Minimal&theme=react&cache_seconds=86400" 
+      alt="Github-Repo-Card" 
+      width=350 
+      height=150
+    />
+  </a>
+  
+  <br>
+    
+  <a href="https://github.com/Sang-Buster">
+    <img 
+      src="https://github-readme-stats-sang-buster.vercel.app/api/pin?username=Sang-Buster&repo=Portfolio-Terminal&theme=react&cache_seconds=86400" 
+      alt="Github-Repo-Card" 
+      width=350 
+      height=150
+    />
+  </a>
+  <a href="https://github.com/Sang-Buster">
+    <img 
+      src="https://github-readme-stats-sang-buster.vercel.app/api/pin?username=Sang-Buster&repo=Portfolio-Card&theme=react&cache_seconds=86400" 
+      alt="Github-Repo-Card" 
+      width=350 
+      height=150
+    />
+  </a>
+ </div>
