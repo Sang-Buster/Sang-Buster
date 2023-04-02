@@ -315,21 +315,21 @@
     />
   </a>
 </div>
-
+<!-- 
 ---
 
 <h3 align="center">
   <a href="https://github.com/Sang-Buster">
     <img
       src="https://raw.githubusercontent.com/Sang-Buster/Picgo-Github/main/img/akita_firefox.gif"
-      width="30px"
+      width="25px"
     />
   </a>
   Portfolio Templates
   <a href="https://github.com/Sang-Buster">
     <img
       src="https://raw.githubusercontent.com/Sang-Buster/Picgo-Github/main/img/akita_firefox.gif"
-      width="30px"
+      width="25px"
     />
   </a>
 </h3>
@@ -370,4 +370,4 @@
       height=150
     />
   </a>
- </div>
+ </div> -->
