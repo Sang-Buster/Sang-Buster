@@ -300,7 +300,7 @@
   <a href="https://github.com/Sang-Buster">
     <img
       decoding="async" loading="lazy" 
-      src="https://github-readme-stats-sang-buster.vercel.app/api?username=Sang-Buster&theme=react&count_private=true&include_all_commits=true&cache_seconds=86400&hide=stars&show_icons=true&line_height=30"
+      src="https://github-readme-stats-sang-buster.vercel.app/api?username=Sang-Buster&theme=react&count_private=true&include_all_commits=true&hide=stars&show_icons=true&line_height=30"
       alt="Github-README-Stats"
       width="380px"
     />
@@ -309,7 +309,7 @@
   <a href="https://github.com/Sang-Buster">
     <img
       decoding="async" loading="lazy" 
-      src="https://github-readme-streaks-stats-git-main-sang-buster.vercel.app/?user=Sang-Buster&cache_seconds=86400&theme=react&count_private=true&include_all_commits=true"
+      src="https://github-readme-streaks-stats-git-main-sang-buster.vercel.app/?user=Sang-Buster&theme=react&count_private=true&include_all_commits=true"
       alt="Github-Streak-Stats"
       width="380px"
     />
@@ -337,7 +337,7 @@
 <div align="center">
   <a href="https://github.com/Sang-Buster/Portfolio-Dimension">
     <img 
-      src="https://github-readme-stats-sang-buster.vercel.app/api/pin?username=Sang-Buster&repo=Portfolio-Dimension&theme=react&cache_seconds=86400" 
+      src="https://github-readme-stats-sang-buster.vercel.app/api/pin?username=Sang-Buster&repo=Portfolio-Dimension&theme=react" 
       alt="Github-Repo-Card" 
       width=350 
       height=150
@@ -345,7 +345,7 @@
   </a>
   <a href="https://github.com/Sang-Buster/Portfolio-Minimal">
     <img 
-      src="https://github-readme-stats-sang-buster.vercel.app/api/pin?username=Sang-Buster&repo=Portfolio-Minimal&theme=react&cache_seconds=86400" 
+      src="https://github-readme-stats-sang-buster.vercel.app/api/pin?username=Sang-Buster&repo=Portfolio-Minimal&theme=react" 
       alt="Github-Repo-Card" 
       width=350 
       height=150
@@ -356,7 +356,7 @@
   
   <a href="https://github.com/Sang-Buster/Portfolio-Terminal">
     <img 
-      src="https://github-readme-stats-sang-buster.vercel.app/api/pin?username=Sang-Buster&repo=Portfolio-Terminal&theme=react&cache_seconds=86400" 
+      src="https://github-readme-stats-sang-buster.vercel.app/api/pin?username=Sang-Buster&repo=Portfolio-Terminal&theme=react" 
       alt="Github-Repo-Card" 
       width=350 
       height=150
@@ -364,7 +364,7 @@
   </a>
   <a href="https://github.com/Sang-Buster/Portfolio-Card">
     <img 
-      src="https://github-readme-stats-sang-buster.vercel.app/api/pin?username=Sang-Buster&repo=Portfolio-Card&theme=react&cache_seconds=86400" 
+      src="https://github-readme-stats-sang-buster.vercel.app/api/pin?username=Sang-Buster&repo=Portfolio-Card&theme=react" 
       alt="Github-Repo-Card" 
       width=350 
       height=150
