@@ -278,7 +278,7 @@
     </a> -->
 </p>
 
-</br>
+---
 
 <h3 align="center">
   <a href="https://github.com/Sang-Buster">
@@ -310,7 +310,7 @@
     <img
       decoding="async"
       loading="lazy"
-      src="https://github-readme-stats-sang-buster.vercel.app/api/pin?username=Sang-Buster&repo=Portfolio-Minimal&theme=react"
+      src="https://github-readme-stats-sang-buster.vercel.app/api/pin?username=Sang-Buster&repo=Portfolio-Minimal&theme=reat"
       alt="Github-Repo-Card"
       width="380"
     />
@@ -338,8 +338,7 @@
     />
   </a>
 
-</br>
-</br>
+---
 
   <h3>
     <a href="https://github.com/Sang-Buster">
