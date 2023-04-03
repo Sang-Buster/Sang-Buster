@@ -1,32 +1,32 @@
-<p align="center">
+<div align="center">
   <a href="https://github.com/Sang-Buster">
     <img
       style="width: 8rem; height: auto"
       src="https://raw.githubusercontent.com/Sang-Buster/Picgo-Github/main/img/Gallery/EveCat6.gif"
     />
   </a>
-</p>
 
-<h3 align="center">
-  Hi, I'm Sang Xing
-  <a href="https://github.com/Sang-Buster">
-    <img
-      width="25px"
-      src="https://raw.githubusercontent.com/Sang-Buster/Picgo-Github/main/img/Hi.gif"
-    />
-  </a>
-</h3>
+  <h3>
+    Hi, I'm Sang Xing
+    <a href="https://github.com/Sang-Buster">
+      <img
+        width="25px"
+        src="https://raw.githubusercontent.com/Sang-Buster/Picgo-Github/main/img/Hi.gif"
+      />
+    </a>
+  </h3>
 
-<h6 font-size="20" align="center">
-  A Little Data Scientist. A Pure Math Enthusiast.
-  <br />
-  <a href="https://github.com/Sang-Buster">
-    <img
-      src="https://readme-typing-svg.herokuapp.com?font=Consolas&weight=50&size=11&pause=1000&color=7FD9FB&center=true&width=435&height=30&lines=Always+grinding..."
-      alt="Typing SVG"
-    />
-  </a>
-</h6>
+  <h6 font-size="20">
+    A Little Data Scientist. A Pure Math Enthusiast.
+    <br />
+    <a href="https://github.com/Sang-Buster">
+      <img
+        src="https://readme-typing-svg.herokuapp.com?font=Consolas&weight=50&size=11&pause=1000&color=7FD9FB&center=true&width=435&height=30&lines=Always+grinding..."
+        alt="Typing SVG"
+      />
+    </a>
+  </h6>
+</div>
 
 ---
 
@@ -270,12 +270,12 @@
       alt="Ubuntu"
     />
   </a>
-<!--   <a href="https://archlinux.org/" target="_blank"> 
-      <img 
-        src="https://img.shields.io/badge/Arch_Linux-1793D1?style=for-the-badge&logo=arch-linux&logoColor=white" 
-        alt="Arch"
-      />
-  </a> -->
+  <!--   <a href="https://archlinux.org/" target="_blank"> 
+        <img 
+          src="https://img.shields.io/badge/Arch_Linux-1793D1?style=for-the-badge&logo=arch-linux&logoColor=white" 
+          alt="Arch"
+        />
+    </a> -->
 </p>
 
 ---
@@ -298,73 +298,78 @@
 
 <div align="center">
   <a href="https://github.com/Sang-Buster/Portfolio-Dimension">
-    <img 
-      src="https://github-readme-stats-sang-buster.vercel.app/api/pin?username=Sang-Buster&repo=Portfolio-Dimension&theme=react" 
-      alt="Github-Repo-Card" 
-      width=350 
-      height=150
+    <img
+      decoding="async"
+      loading="lazy"
+      src="https://github-readme-stats-sang-buster.vercel.app/api/pin?username=Sang-Buster&repo=Portfolio-Dimension&theme=react"
+      alt="Github-Repo-Card"
+      width="380"
     />
   </a>
   <a href="https://github.com/Sang-Buster/Portfolio-Minimal">
-    <img 
-      src="https://github-readme-stats-sang-buster.vercel.app/api/pin?username=Sang-Buster&repo=Portfolio-Minimal&theme=react" 
-      alt="Github-Repo-Card" 
-      width=350 
-      height=150
+    <img
+      decoding="async"
+      loading="lazy"
+      src="https://github-readme-stats-sang-buster.vercel.app/api/pin?username=Sang-Buster&repo=Portfolio-Minimal&theme=react"
+      alt="Github-Repo-Card"
+      width="380"
     />
   </a>
-  
-  <br>
-  
+
+  </br>
+  </br>
+
   <a href="https://github.com/Sang-Buster/Portfolio-Terminal">
-    <img 
-      src="https://github-readme-stats-sang-buster.vercel.app/api/pin?username=Sang-Buster&repo=Portfolio-Terminal&theme=react" 
-      alt="Github-Repo-Card" 
-      width=350 
-      height=150
+    <img
+      decoding="async"
+      loading="lazy"
+      src="https://github-readme-stats-sang-buster.vercel.app/api/pin?username=Sang-Buster&repo=Portfolio-Terminal&theme=react"
+      alt="Github-Repo-Card"
+      width="380"
     />
   </a>
   <a href="https://github.com/Sang-Buster/Portfolio-Card">
-    <img 
-      src="https://github-readme-stats-sang-buster.vercel.app/api/pin?username=Sang-Buster&repo=Portfolio-Card&theme=react" 
-      alt="Github-Repo-Card" 
-      width=350 
-      height=150
+    <img
+      decoding="async"
+      loading="lazy"
+      src="https://github-readme-stats-sang-buster.vercel.app/api/pin?username=Sang-Buster&repo=Portfolio-Card&theme=react"
+      alt="Github-Repo-Card"
+      width="380"
     />
   </a>
- </div>
 
----
+  ---
 
-<h3 align="center">
+  <h3>
+    <a href="https://github.com/Sang-Buster">
+      <img
+        src="https://raw.githubusercontent.com/Sang-Buster/Picgo-Github/main/img/stats.gif"
+        width="25px"
+      />
+    </a>
+    Github Stats
+    <a href="https://github.com/Sang-Buster">
+      <img
+        src="https://raw.githubusercontent.com/Sang-Buster/Picgo-Github/main/img/stats.gif"
+        width="25px"
+      />
+    </a>
+  </h3>
+
   <a href="https://github.com/Sang-Buster">
     <img
-      src="https://raw.githubusercontent.com/Sang-Buster/Picgo-Github/main/img/stats.gif"
-      width="25px"
-    />
-  </a>
-  Github Stats
-  <a href="https://github.com/Sang-Buster">
-    <img
-      src="https://raw.githubusercontent.com/Sang-Buster/Picgo-Github/main/img/stats.gif"
-      width="25px"
-    />
-  </a>
-</h3>
-
-<div align="center">
-  <a href="https://github.com/Sang-Buster">
-    <img
-      decoding="async" loading="lazy" 
+      decoding="async"
+      loading="lazy"
       src="https://github-readme-stats-sang-buster.vercel.app/api?username=Sang-Buster&theme=react&count_private=true&include_all_commits=true&hide=stars&show_icons=true&line_height=30"
       alt="Github-README-Stats"
       width="380px"
     />
   </a>
-  
+
   <a href="https://github.com/Sang-Buster">
     <img
-      decoding="async" loading="lazy" 
+      decoding="async"
+      loading="lazy"
       src="https://github-readme-streaks-stats-git-main-sang-buster.vercel.app/?user=Sang-Buster&theme=react&count_private=true&include_all_commits=true"
       alt="Github-Streak-Stats"
       width="380px"
