@@ -310,7 +310,7 @@
     <img
       decoding="async"
       loading="lazy"
-      src="https://github-readme-stats-sang-buster.vercel.app/api/pin?username=Sang-Buster&repo=Portfolio-Minimal&theme=reat"
+      src="https://github-readme-stats-sang-buster.vercel.app/api/pin?username=Sang-Buster&repo=Portfolio-Minimal&theme=react"
       alt="Github-Repo-Card"
       width="380"
     />
