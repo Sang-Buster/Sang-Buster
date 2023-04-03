@@ -278,7 +278,7 @@
     </a> -->
 </p>
 
----
+</br>
 
 <h3 align="center">
   <a href="https://github.com/Sang-Buster">
@@ -338,7 +338,8 @@
     />
   </a>
 
-  ---
+</br>
+</br>
 
   <h3>
     <a href="https://github.com/Sang-Buster">
