@@ -316,9 +316,6 @@
     />
   </a>
 
-  </br>
-  </br>
-
   <a href="https://github.com/Sang-Buster/Portfolio-Terminal">
     <img
       decoding="async"
