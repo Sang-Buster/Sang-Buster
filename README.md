@@ -156,10 +156,10 @@
 
 <h4>Database</h4>
 <p align="center">
-  <a href="https://www.sqlite.org/index.html" target="_blank">
+  <a href="https://www.postgresql.org/" target="_blank">
     <img
-      src="https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white"
-      alt="SQLlite"
+      src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white"
+      alt="PostgresSQL"
     />
   </a>
   <a href="https://www.mongodb.com/" target="_blank">
@@ -168,16 +168,16 @@
       alt="MongoDB"
     />
   </a>
+  <a href="https://www.sqlite.org/index.html" target="_blank">
+    <img
+      src="https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white"
+      alt="SQLlite"
+    />
+  </a>
   <a href="https://www.mysql.com/" target="_blank">
     <img
       src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white"
       alt="SQL"
-    />
-  </a>
-  <a href="https://www.postgresql.org/" target="_blank">
-    <img
-      src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white"
-      alt="PostgresSQL"
     />
   </a>
 </p>
