@@ -18,13 +18,6 @@
 
   <h6 font-size="20">
     A Little Data Scientist. A Pure Math Enthusiast.
-    <br />
-    <a href="https://github.com/Sang-Buster">
-      <img
-        src="https://readme-typing-svg.herokuapp.com?font=Consolas&weight=50&size=11&pause=1000&color=7FD9FB&center=true&width=435&height=30&lines=Always+grinding..."
-        alt="Typing SVG"
-      />
-    </a>
   </h6>
 </div>
 
