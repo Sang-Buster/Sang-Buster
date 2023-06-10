@@ -2,7 +2,7 @@
   <a href="https://github.com/Sang-Buster">
     <img
       style="width: 8rem; height: auto"
-      src="https://raw.githubusercontent.com/Sang-Buster/Picgo-Github/main/img/Gallery/EveCat6.gif"
+      src="https://raw.githubusercontent.com/Sang-Buster/Picgo-Github/main/img/Gallery/EveCat4.gif"
     />
   </a>
 
