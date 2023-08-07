@@ -1,11 +1,4 @@
 <div align="center">
-  <a href="https://github.com/Sang-Buster">
-    <img
-      style="width: 8rem; height: auto"
-      src="https://raw.githubusercontent.com/Sang-Buster/Picgo-Github/main/img/Gallery/EveCat4.gif"
-    />
-  </a>
-
   <h3>
     Hi, I'm Sang Xing
     <a href="https://github.com/Sang-Buster">
