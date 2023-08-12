@@ -250,13 +250,13 @@
       alt="Fedora"
     />
   </a>
-  <a href="https://ubuntu.com/" target="_blank">
+<!-- <a href="https://ubuntu.com/" target="_blank">
     <img
       src="https://img.shields.io/badge/ubuntu-E95420.svg?style=for-the-badge&logo=ubuntu&logoColor=white"
       alt="Ubuntu"
     />
   </a>
-  <!--   <a href="https://archlinux.org/" target="_blank"> 
+  <a href="https://archlinux.org/" target="_blank"> 
         <img 
           src="https://img.shields.io/badge/Arch_Linux-1793D1?style=for-the-badge&logo=arch-linux&logoColor=white" 
           alt="Arch"
