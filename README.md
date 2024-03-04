@@ -54,7 +54,7 @@
   </a>
   <a href="https://julialang.org/" target="_blank">
     <img
-      src="https://github.com/Sang-Buster/Picgo-Github/raw/main/img/Icons/Julia.svg"
+      src="https://img.shields.io/badge/Julia-9558B2?style=for-the-badge&logo=julia&logoColor=white"
       alt="Julia"
     />
   </a>
@@ -92,6 +92,11 @@
       alt="JavaScript"
     />
   </a>
+  <a href="https://nextjs.org/" target="_blank">
+    <img
+      src="https://img.shields.io/badge/next%20js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white"
+      alt="Hugo"
+    />
   <a href="https://hexo.io/" target="_blank">
     <img
       src="https://img.shields.io/badge/Hexo-0E83CD?style=for-the-badge&logo=hexo&logoColor=white"
