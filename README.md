@@ -233,7 +233,7 @@
   </a>
   <a href="https://www.rstudio.com/" target="_blank">
     <img
-      src="https://img.shields.io/badge/RStudio-75AADB?style=for-the-badge&logo=RStudio&logoColor=white"
+      src="https://img.shields.io/badge/RStudio-75AADB?style=for-the-badge&logo=RStudio%20IDE&logoColor=white"
       alt="RStudio"
     />
   </a>
