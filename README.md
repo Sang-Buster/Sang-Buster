@@ -137,12 +137,6 @@
       alt="Nginx"
     />
   </a>
-  <a href="https://azure.microsoft.com/en-us/" target="_blank">
-    <img
-      src="https://img.shields.io/badge/microsoft%20azure-0089D6?style=for-the-badge&logo=microsoft-azure&logoColor=white"
-      alt="Azure"
-    />
-  </a>
 </p>
 
 <h4>Database</h4>
@@ -265,63 +259,7 @@
 
 ---
 
-<h3 align="center">
-  <a href="https://github.com/Sang-Buster">
-    <img
-      src="https://raw.githubusercontent.com/Sang-Buster/Picgo-Github/main/img/akita_firefox.gif"
-      width="25px"
-    />
-  </a>
-  Portfolio Templates
-  <a href="https://github.com/Sang-Buster">
-    <img
-      src="https://raw.githubusercontent.com/Sang-Buster/Picgo-Github/main/img/akita_firefox.gif"
-      width="25px"
-    />
-  </a>
-</h3>
-
 <div align="center">
-  <a href="https://github.com/Sang-Buster/Portfolio-Dimension">
-    <img
-      decoding="async"
-      loading="lazy"
-      src="https://github-readme-stats-sang-buster.vercel.app/api/pin?username=Sang-Buster&repo=Portfolio-Dimension&theme=react"
-      alt="Github-Repo-Card"
-      width="380"
-    />
-  </a>
-  <a href="https://github.com/Sang-Buster/Portfolio-Minimal">
-    <img
-      decoding="async"
-      loading="lazy"
-      src="https://github-readme-stats-sang-buster.vercel.app/api/pin?username=Sang-Buster&repo=Portfolio-Minimal&theme=react"
-      alt="Github-Repo-Card"
-      width="380"
-    />
-  </a>
-
-  <a href="https://github.com/Sang-Buster/Portfolio-Terminal">
-    <img
-      decoding="async"
-      loading="lazy"
-      src="https://github-readme-stats-sang-buster.vercel.app/api/pin?username=Sang-Buster&repo=Portfolio-Terminal&theme=react"
-      alt="Github-Repo-Card"
-      width="380"
-    />
-  </a>
-  <a href="https://github.com/Sang-Buster/Portfolio-Card">
-    <img
-      decoding="async"
-      loading="lazy"
-      src="https://github-readme-stats-sang-buster.vercel.app/api/pin?username=Sang-Buster&repo=Portfolio-Card&theme=react"
-      alt="Github-Repo-Card"
-      width="380"
-    />
-  </a>
-
----
-
   <h3>
     <a href="https://github.com/Sang-Buster">
       <img
