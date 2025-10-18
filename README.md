@@ -10,7 +10,7 @@
   </h3>
 
   <h6 font-size="20">
-    A Little Data Scientist. A Pure Math Enthusiast.
+    Always grinding...
   </h6>
 </div>
 
