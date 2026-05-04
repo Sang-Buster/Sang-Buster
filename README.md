@@ -256,3 +256,43 @@
     />
   </a>
 </p>
+
+---
+
+<div align="center">
+  <h3>
+    <a href="https://github.com/Sang-Buster">
+      <img
+        src="https://raw.githubusercontent.com/Sang-Buster/Picgo-Github/main/img/stats.gif"
+        width="25px"
+      />
+    </a>
+    Github Stats
+    <a href="https://github.com/Sang-Buster">
+      <img
+        src="https://raw.githubusercontent.com/Sang-Buster/Picgo-Github/main/img/stats.gif"
+        width="25px"
+      />
+    </a>
+  </h3>
+
+  <a href="https://github.com/Sang-Buster">
+    <img
+      decoding="async"
+      loading="lazy"
+      src="https://github-readme-stats-sang-buster.vercel.app/api?username=Sang-Buster&theme=tokyonight&count_private=true&hide_border=true&include_all_commits=true&hide=stars&show_icons=true&line_height=28"
+      alt="Github-README-Stats"
+      width="380px"
+    />
+  </a>
+  
+  <a href="https://github.com/Sang-Buster">
+    <img
+      decoding="async"
+      loading="lazy"
+      src="https://github-readme-streaks-stats-sang-buster.vercel.app?user=sang-buster&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true"
+      alt="Github-Streak-Stats"
+      width="380px"
+    />
+  </a>
+</div>
