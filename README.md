@@ -290,7 +290,7 @@
     <img
       decoding="async"
       loading="lazy"
-      src="https://github-readme-streaks-stats-sang-buster.vercel.app?user=sang-buster&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true"
+      src="https://github-readme-streaks-stats-git-vercel-sangbusters-projects.vercel.app?user=sang-buster&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true"
       alt="Github-Streak-Stats"
       width="380px"
     />
